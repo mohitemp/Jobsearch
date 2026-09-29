@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Fair Regulation Portal</title>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>Job Fair Regulation Portal</h1>
+    <nav>
+      <ul>
+        <li>Home</li>
+        <li>Guidelines</li>
+        <li>Upcoming Fairs</li>
+        <li>Registration</li>
+        <li>Login</li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="hero">
+    <h2>Regulating Job Fairs for a Better Future</h2>
+    <p>Ensuring compliance and fair opportunities for all.</p>
+    <button>Employer Registration</button>
+    <button>Job Seeker Sign Up</button>
+  </section>
+
+  <!-- Key Features -->
+  <section id="features">
+    <div>Organizer Guidelines</div>
+    <div>Approval & Permits</div>
+    <div>Monitoring & Reports</div>
+  </section>
+
+  <!-- Upcoming Fairs -->
+  <section id="upcoming">
+    <h3>Upcoming Job Fairs</h3>
+    <ul>
+      <li>Delhi Job Fair – May 18, 2024</li>
+      <li>Bangalore Career Expo – Jun 5, 2024</li>
+      <li>Mumbai Employment Fair – Jul 12, 2024</li>
+    </ul>
+  </section>
+
+  <!-- How It Works -->
+  <section id="process">
+    <h3>How It Works</h3>
+    <ol>
+      <li>Register Online</li>
+      <li>Get Approvals</li>
+      <li>Attend the Fair</li>
+      <li>Submit Feedback</li>
+    </ol>
+  </section>
+
+  <!-- Regulations & Feedback -->
+  <section id="info">
+    <div>
+      <h4>Regulations & Policies</h4>
+      <ul>
+        <li>Fair Guidelines</li>
+        <li>Employer Verification</li>
+        <li>Equal Opportunity Rules</li>
+      </ul>
+    </div>
+    <div>
+      <h4>Feedback & Complaints</h4>
+      <button>Submit Feedback</button>
+      <button>File a Complaint</button>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2024 Job Fair Regulation Portal</p>
+    <p>Privacy Policy | Terms & Conditions | Contact Us</p>
+  </footer>
+</body>
+</html>
